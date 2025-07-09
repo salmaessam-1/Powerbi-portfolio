@@ -20,9 +20,14 @@ I created these projects to demonstrate my ability to transform raw data into cl
 
 ## 📂 **Projects Overview**
 
-### 1️⃣ [Adventure Works](./1-Adventure Works)
+### 1️⃣ [AdventureWorks2022 Analysis](./4-adventureworks)
 **Description:**  
 Analyzed sales data from the AdventureWorks2022 database to identify trends, top-performing products, and customer segments.
+
+![1](https://github.com/user-attachments/assets/afca5555-9274-47e4-abab-d7e4929e73f6)
+![2](https://github.com/user-attachments/assets/e458e19f-8212-42db-a32b-b2bed2fce4bf)
+![3](https://github.com/user-attachments/assets/dc554ea0-0f88-49be-a3b9-9c9d3758dfda)
+![4](https://github.com/user-attachments/assets/f302a93c-bc4f-4b2c-a79e-88cc1bbce7ae)
 
 ![AdventureWorks2022](https://github.com/user-attachments/assets/9a049e28-97c8-41f4-abc3-5375ddb95f05)
 
