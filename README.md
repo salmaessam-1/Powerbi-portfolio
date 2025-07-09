@@ -23,6 +23,7 @@ I created these projects to demonstrate my ability to transform raw data into cl
 ### 1️⃣ [AdventureWorks2022 Analysis](./4-adventureworks)
 **Description:**  
 Analyzed sales data from the AdventureWorks2022 database to identify trends, top-performing products, and customer segments.
+
 ![AdventureWorks2022](https://github.com/user-attachments/assets/9a049e28-97c8-41f4-abc3-5375ddb95f05)
 
 ---
@@ -30,6 +31,7 @@ Analyzed sales data from the AdventureWorks2022 database to identify trends, top
 ### 2️⃣ [Flights Analysis](./5-flights)
 **Description:**  
 Detailed analysis of flight delay data to uncover common causes of delays, visualize airline performance, and identify peak travel times.
+
 ![1](https://github.com/user-attachments/assets/db7d04fe-7d79-4ea6-a374-93fb823c5ce7)
 ![2](https://github.com/user-attachments/assets/dc76b763-94fc-42e0-83eb-e7915215e031)
 ![3](https://github.com/user-attachments/assets/a8ae78e3-bebd-4d24-97d4-32de0928a077)
@@ -39,6 +41,7 @@ Detailed analysis of flight delay data to uncover common causes of delays, visua
 ### 3️⃣ [Hotel Analysis](./6-hotels)
 **Description:**  
 Analyzed hotel booking data to understand occupancy rates, revenue trends, and customer booking preferences.
+
 ![1](https://github.com/user-attachments/assets/6e580d8f-fda8-4618-8c77-6143ee24d41b)
 ![2](https://github.com/user-attachments/assets/50027986-cd6a-4fd6-aa46-9c87acadafcc)
 ![3](https://github.com/user-attachments/assets/6746449f-58bb-4cca-b9ff-e216976f3e2e)
