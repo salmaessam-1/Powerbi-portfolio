@@ -30,16 +30,19 @@ Analyzed sales data from the AdventureWorks2022 database to identify trends, top
 ### 2️⃣ [Flights Analysis](./5-flights)
 **Description:**  
 Detailed analysis of flight delay data to uncover common causes of delays, visualize airline performance, and identify peak travel times.
-
-**Key Insights:**  
-- Impact of specific airports and weather conditions on flight punctuality.
-![3](https://github.com/user-attachments/assets/d2c7ee9c-ce88-42d7-9555-cfc1649ae6ab)
+![1](https://github.com/user-attachments/assets/db7d04fe-7d79-4ea6-a374-93fb823c5ce7)
+![2](https://github.com/user-attachments/assets/dc76b763-94fc-42e0-83eb-e7915215e031)
+![3](https://github.com/user-attachments/assets/a8ae78e3-bebd-4d24-97d4-32de0928a077)
 
 ---
 
 ### 3️⃣ [Hotel Analysis](./6-hotels)
 **Description:**  
 Analyzed hotel booking data to understand occupancy rates, revenue trends, and customer booking preferences.
+![1](https://github.com/user-attachments/assets/6e580d8f-fda8-4618-8c77-6143ee24d41b)
+![2](https://github.com/user-attachments/assets/50027986-cd6a-4fd6-aa46-9c87acadafcc)
+![3](https://github.com/user-attachments/assets/6746449f-58bb-4cca-b9ff-e216976f3e2e)
+![4](https://github.com/user-attachments/assets/985aeebe-6d24-4b18-8ba8-8bf2f1a62336)
 ![5](https://github.com/user-attachments/assets/9d6d2de3-741c-4662-93b5-6de9f69681f3)
 
 
