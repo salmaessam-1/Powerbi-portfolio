@@ -20,22 +20,26 @@ I created these projects to demonstrate my ability to transform raw data into cl
 
 ## 📂 **Projects Overview**
 
-### 1️⃣ [AdventureWorks2022 Analysis](./4-adventureworks)
+### 1️⃣ [Adventure Works](./Adventure%20Works)
 **Description:**  
-Analyzed sales data from the AdventureWorks2022 database to identify trends, top-performing products, and customer segments.
+Analysis of Adventure Works data focusing on sales trends, top products, and customer segments.
 
 ![1](https://github.com/user-attachments/assets/afca5555-9274-47e4-abab-d7e4929e73f6)
 ![2](https://github.com/user-attachments/assets/e458e19f-8212-42db-a32b-b2bed2fce4bf)
 ![3](https://github.com/user-attachments/assets/dc554ea0-0f88-49be-a3b9-9c9d3758dfda)
 ![4](https://github.com/user-attachments/assets/f302a93c-bc4f-4b2c-a79e-88cc1bbce7ae)
 
+### 2️⃣ [AdventureWorks2022](./AdventureWorks2022)
+**Description:**  
+Sales data analysis from the AdventureWorks2022 database to discover trends and performance insights.
+
 ![AdventureWorks2022](https://github.com/user-attachments/assets/9a049e28-97c8-41f4-abc3-5375ddb95f05)
 
 ---
 
-### 2️⃣ [Flights Analysis](./5-flights)
+### 3️⃣ [Flights](./Flights)
 **Description:**  
-Detailed analysis of flight delay data to uncover common causes of delays, visualize airline performance, and identify peak travel times.
+In-depth analysis of flight delay data to highlight delay causes, airline performance, and peak travel periods.
 
 ![1](https://github.com/user-attachments/assets/db7d04fe-7d79-4ea6-a374-93fb823c5ce7)
 ![2](https://github.com/user-attachments/assets/dc76b763-94fc-42e0-83eb-e7915215e031)
@@ -43,9 +47,9 @@ Detailed analysis of flight delay data to uncover common causes of delays, visua
 
 ---
 
-### 3️⃣ [Hotel Analysis](./6-hotels)
+### 4️⃣ [Hotels](./Hotels)
 **Description:**  
-Analyzed hotel booking data to understand occupancy rates, revenue trends, and customer booking preferences.
+Hotel booking data analysis to understand occupancy, revenue trends, and booking behaviors.
 
 ![1](https://github.com/user-attachments/assets/6e580d8f-fda8-4618-8c77-6143ee24d41b)
 ![2](https://github.com/user-attachments/assets/50027986-cd6a-4fd6-aa46-9c87acadafcc)
@@ -56,11 +60,16 @@ Analyzed hotel booking data to understand occupancy rates, revenue trends, and c
 
 ---
 
-### 4️⃣ [Sales Analysis](./1-sales) / [Sales2](./2-sales) / [Sales3](./3-sales)
+### 5️⃣ [Sales](./Sales)
 **Description:**  
-Comprehensive sales performance dashboards covering product sales, regional sales performance, and sales team efficiency.
+Comprehensive sales performance dashboards covering product sales, regions, and team performance.
 
 ![Sales](https://github.com/user-attachments/assets/70b5053a-9a5e-41c3-8b93-af8a9392b2a5)
+
+
+### 6️⃣ [Top Selling Products](./Top_Selling_Products)
+**Description:**  
+Deep dive into top-selling products, revenue contribution, and promotional opportunities.
 
 ![TopSellingProducts](https://github.com/user-attachments/assets/a8d9aff6-7f52-4b81-88c1-b5b44bdce838)
 
